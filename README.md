@@ -1,4 +1,5 @@
 # Docker_Lint
+![CI](https://github.com/realMNohgee/Docker_Lint/actions/workflows/ci.yml/badge.svg) ![Python](https://img.shields.io/badge/python-3.9%2B-blue.svg) ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 **Dockerfile best-practice linter.** Catch no-root, no-latest, layer bloat, and security issues. Zero dependencies — Python stdlib only.
 
